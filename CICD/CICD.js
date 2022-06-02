@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-     <title></title>
-     <script type="text/javascript">
-           console.log("hello world");
-     </script>
-</head>
-<body>
 
-</body>
-</html>

@@ -1,0 +1,16 @@
+<DOCTYPE html>
+<html>
+<head>
+     <title></title>
+     <script type="text/javascript">
+              let a=5;prompt("please enter first number","");
+              let b=6;prompt("please enter second number","");
+              //+
+              var c=a+b;
+              console.log("The sum of "+a+"annd"+b+"is:+c);
+     </script>
+</head>
+<body>
+
+</body>
+</html>

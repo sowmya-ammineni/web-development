@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <scrpt type="text/javascript">
+        function convert(){
+           var c=document.get element by Id('data').value;
+           var f=(c*1.8)+32;
+           document.get element by Id('res').inner text='${c}C=${f}F';
+        }
+    </script>
+    <style type="text/css">
+    </style>
+</head>
+<body>
+    <input type="" name="" id="data"/>C
+    <br/>
+    <button onclick="convert()">convert</button>
+    <h1 id="res"><</h1>
+</body>
+</html>

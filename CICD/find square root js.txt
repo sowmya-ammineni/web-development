@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<html>
+<head>
+     <title></title>
+     <script type="text/javascript">
+              var a=prompt('please enter a number',"");
+              var b=math.sqrt(a);
+              console.log(b);
+     </script>
+</head>
+<body>
+
+</body>
+</html>
